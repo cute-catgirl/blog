@@ -47,7 +47,7 @@ And despite this I still use ChatGPT. And Claude.
 
 And I use Google as my search engine.
 
-I use MacOS as my operating system. On a MacBook Pro.
+I use MacOS as my operating system. On a MacBook Pro.*
 
 And like I'm not perfect but am *I* the problem here?? Sure I'm not directly responsible for corporation's actions but you *do* vote with your wallet, and increasingly your attention and time.
 
@@ -64,3 +64,5 @@ Can you rebel against a system while being in it?
 And, in my honest opinion, and in my current state of mind, thoughts spiraling, arguing back and forth with myself, I think that there's only one answer to all that.
 
 I don't know.
+
+\* UPDATE OCTOBER 09 2025: I am no longer using MacOS! I got a Framework 13 Laptop which is running Arch Linux! :3
