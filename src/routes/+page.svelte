@@ -7,7 +7,7 @@
 
 <h1 class="text-2xl font-bold pb-2">Mae Moon</h1>
 <p>
-	Hi! I'm Mae! I'm a highschool student living in Canada. I'm transfem and use she/her pronouns! I
+	Hi! I'm Mae! I'm a college student living in Canada. I'm transfem and use she/her pronouns! I
 	enjoy coding, playing video games, and music.
 </p>
 <ul class="py-3">
