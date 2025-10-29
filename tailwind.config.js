@@ -3,7 +3,24 @@ export default {
   darkMode: 'selector',
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {},
+    extend: {
+      typography: {
+        DEFAULT: {
+          css: {
+            color: 'var(--color-fg-1)',
+            a: {
+              color: 'var(--color-fg-2)',
+            },
+            h1: {
+              color: 'var(--color-fg-1)',
+            },
+            strong: {
+              color: 'var(--color-fg-1)',
+            }
+          }
+        }
+      }
+    },
     fontFamily: {
       sans: ['Inter', 'sans-serif']
     },
