@@ -27,7 +27,11 @@
 	id="page"
 	class="bg-slate-100 w-screen min-h-screen flex justify-center items-start bg-nord6 dark:bg-nord1"
 >
-	<img src="/trans.svg" class="fixed top-4 left-4 w-32" alt="Transgender pride flag" />
+	<img
+		src="/trans.svg"
+		class="fixed top-4 left-4 w-16 md:w-24 lg:w-32 xl:w-36"
+		alt="Transgender pride flag"
+	/>
 	{#key data.currentRoute}
 		<main class="w-1/2 h-full p-4 text-nord0 dark:text-nord6 leading-snug">
 			<Breadcrumb path={data.currentRoute}></Breadcrumb>
